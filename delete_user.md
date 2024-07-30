@@ -1,4 +1,4 @@
-*Taffweed App*
+*Zawakini App*
 Steps to delete your account and data from our app:
 
 - Login with your Google account and phone number.
