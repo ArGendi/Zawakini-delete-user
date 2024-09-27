@@ -1,7 +1,7 @@
 *Zawakini App*
 Steps to delete your account and data from our app:
 
-- Login with your Google account and phone number.
+- Enter the app by phone number.
 - In Home page tap on app logo on top right.
 - Then click Delete Account button (red color)
 
